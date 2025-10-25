@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "RenoVapro",
+    "tagline": "Professional Renovation in Ghent"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "login": "Login",
+    "platform": "Platform"
+  },
+  "hero": {
+    "title": "Professional Renovation in Ghent",
+    "subtitle": "From tiling to bathroom renovations - Your specialist for quality construction",
+    "cta": "Request Quote",
+    "ctaPlatform": "Open Platform",
+    "secondary": "Our Services"
+  },
+  "platform": {
+    "title": "RenoVapro Platform",
+    "subtitle": "Manage your projects, teams, and clients",
+    "tabProjects": "Projects",
+    "tabTeam": "Team",
+    "tabClients": "Clients",
+    "tabReports": "Reports",
+    "placeholder": "Platform functionality coming soon"
+  },
+  "auth": {
+    "title": "Sign In",
+    "subtitle": "Log in to your RenoVapro account",
+    "email": "Email address",
+    "password": "Password",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "forgotPassword": "Forgot password?",
+    "placeholder": "Authentication functionality coming in Step 2"
+  },
+  "footer": {
+    "company": "Company",
+    "contact": "Contact",
+    "legal": "Legal",
+    "about": "About Us",
+    "services": "Services",
+    "careers": "Careers",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "privacy": "Privacy Policy",
+    "terms": "Terms",
+    "copyright": "© 2025 RenoVapro. All rights reserved."
+  }
+}
